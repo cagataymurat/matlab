@@ -1,2 +1,2 @@
 # matlab
-a collection of matlab scripts
+A collection of matlab scripts
